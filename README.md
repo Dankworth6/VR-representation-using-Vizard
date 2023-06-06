@@ -28,3 +28,7 @@ The provided code appears to be using the Vizard library, which is a platform fo
 13. The feeding action involves a sequence of random movements, animations, and waiting periods. Each pigeon in the `pigeons` list is assigned this feeding action.
 
 The provided code seems to set up a scene with avatars and defines keyboard-triggered actions for walking the male and female avatars and triggering a feeding action for the pigeon avatars.
+
+
+Download vizard app from : https://www.worldviz.com/vizard-virtual-reality-software
+For Tutorial and similar projects visit : https://www.youtube.com/watch?v=0cpfftwbFyg
